@@ -11,8 +11,9 @@ generate_gif.py: Generate gif image
 
 # Requirements Library
 # Install numpy
-
+```
 pip install numpy
+```
 # Install Python
 
 # Install matplotlib
