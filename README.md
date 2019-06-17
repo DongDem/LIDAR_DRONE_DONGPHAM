@@ -9,7 +9,7 @@ Source code is written by Python
 
 generate_gif.py: Generate gif image
 
-# Dependencies
+# Requirements Library
 # Install numpy
 
 pip install numpy
