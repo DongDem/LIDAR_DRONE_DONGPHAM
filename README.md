@@ -11,6 +11,7 @@ generate_gif.py: Generate gif image
 
 # Requirements Library
 # Python
+[https://realpython.com/installing-python/]
 # Numpy
 ```
 pip install numpy
