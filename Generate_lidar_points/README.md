@@ -1,3 +1,3 @@
-+) lidar_pints.gif: visualize lidar points
+- **lidar_pints.gif**: visualize lidar points
 
-+) map.png: visualize map
+- **map.png**: visualize map
