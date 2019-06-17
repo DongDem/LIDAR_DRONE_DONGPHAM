@@ -7,6 +7,8 @@ Task 5: Mapping folder
 
 Source code is written by Python
 
+generate_gif.py: Generate gif image
+
 # Dependencies
 # Install numpy
 
