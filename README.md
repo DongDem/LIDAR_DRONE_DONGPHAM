@@ -10,20 +10,20 @@ Source code is written by Python
 generate_gif.py: Generate gif image
 
 # Requirements Library
-# Install Python
-# Install numpy
+# Python
+# Numpy
 ```
 pip install numpy
 ```
-# Install matplotlib
+# Matplotlib
 ```
 pip install matplotlib
 ```
-# Install pandas
+# Pandas
 ```
 pip install pandas
 ```
-# Install ImageIO
+# ImageIO
 ```
 pip install imageio
 ```
