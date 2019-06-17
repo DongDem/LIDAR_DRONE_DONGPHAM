@@ -8,15 +8,15 @@ Task 5: Mapping folder
 Source code is written by Python
 
 # Dependencies
-#Install numpy
+# Install numpy
 
 pip install numpy
-#Install Python
+# Install Python
 
-#Install matplotlib
+# Install matplotlib
 
 pip install matplotlib
 
-#Install pandas
+# Install pandas
 
 pip install pandas
