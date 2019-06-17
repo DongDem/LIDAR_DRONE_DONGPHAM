@@ -6,7 +6,11 @@ Source code is written by Python
 
 # Dependencies
 Install Python
+
 Install matplotlib
+
 pip install matplotlib
+
 Install pandas
+
 pip install pandas
