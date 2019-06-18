@@ -68,11 +68,11 @@ def main():
 
         for j in range(ox.shape[0]):
             if j<2:
-                x_map.append(round(ox[j]))
-                y_map.append(round(oy[j]))
+                x_map.append(int(round(ox[j])))
+                y_map.append(int(round(oy[j])))
             if j>=2:
-                x_map.append(round(ox[j]))
-                y_map.append(round(oy[j]))
+                x_map.append(int(round(ox[j])))
+                y_map.append(int(round(oy[j])))
                 # Remove point among start points and end points in wall
                 if (is_close(y_map[-1], y_map[-2]))and (is_close(y_map[-1], y_map[-3])):
                     x_map.pop(-2)
